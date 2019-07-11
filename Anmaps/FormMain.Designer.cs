@@ -1,4 +1,4 @@
-﻿namespace BaiduMapTile
+﻿namespace Anmaps
 {
     partial class FormMain
     {

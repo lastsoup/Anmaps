@@ -8,8 +8,8 @@
     <ProjectGuid>{E1375BC1-9805-48E4-9D00-627A81E193D5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BaiduMapTile</RootNamespace>
-    <AssemblyName>BaiduMapTile</AssemblyName>
+    <RootNamespace>Anmaps</RootNamespace>
+    <AssemblyName>Anmaps</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
@@ -96,7 +96,8 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent>if not exist "$(OutDir)\html" mkdir "$(OutDir)\html"</PreBuildEvent>
+    <PreBuildEvent>
+    </PreBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

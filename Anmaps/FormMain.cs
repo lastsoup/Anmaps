@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Security.Permissions;
 using System.Text.RegularExpressions;
 
-namespace BaiduMapTile
+namespace Anmaps
 {
     //在js中调用ShowMessage函数需加这句
     [PermissionSet(SecurityAction.Demand, Name = "FullTrust")]

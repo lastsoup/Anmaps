@@ -6,7 +6,7 @@ using System.Threading;
 using System.Net;
 using System.IO;
 
-namespace BaiduMapTile
+namespace Anmaps
 {
     public class TileDownloader
     {
